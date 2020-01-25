@@ -1,6 +1,7 @@
 Mapping NDVI change in Paradise, CA | @shuchangd
 
 Assignment report for class Geospatial Machine Learning in Remote Sensing 
+Please access the website here: https://shuchangd.github.io/campfire/ 
 
 Credits:
 
